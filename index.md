@@ -2,13 +2,14 @@
 
 ---
 
-### [Interactive Bokeh map](/sample_page)
+### Data Vizualisation
+[Project 1 : Interactive Bokeh map](/sample_page)
 <img src="images/bokeh_map.PNG?raw=false"/>
 
 ---
 
-### [Project 2](/sample_page (1))
-
+### Data Science project
+[Project 1 :](/sample_page (1))
 
 ---
 
