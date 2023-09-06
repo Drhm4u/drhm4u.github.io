@@ -29,4 +29,4 @@ Some conclusions can be drawn studying this map :
 -  Before migrants can reach the sea, they face sickness (interestingly it happens to travelers that reach Libya)
   <img src="images/Libya.PNG?raw=true"/>
 
-For more details see [my Kaggle Notebook](https://www.kaggle.com/code/stphanedrihem/interactive-bokeh-map-missing-migrants?scriptVersionId=142128813).
+For more details see [my Kaggle Notebook](https://www.kaggle.com/code/stphanedrihem/interactive-bokeh-map-missing-migrants?scriptVersionId=142128813/).
