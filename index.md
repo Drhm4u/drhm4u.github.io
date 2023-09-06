@@ -7,7 +7,7 @@
 
 ---
 
-### [Project 2](/sample_page)
+### [Project 2](/sample_page (1))
 
 
 ---
