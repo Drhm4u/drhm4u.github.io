@@ -27,8 +27,6 @@ Here are the insights of what datas highlighted in our analysis :
 - The client has already developed a trustworthy relationship with the bank before the campaign.
   + The client is more aware of the advantages that bank may offer before getting hooked by a campaign.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ### Selected final models
 The best models which offers performing results and reduce the overfitting are the VotingClassifier and the SVM model.
 
