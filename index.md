@@ -4,7 +4,7 @@
 ### Data Science project
 [Project 1 : Who will open a term-deposit ?](/sample_page (1))
 <br>
-[Project 2 : Quel sont les émissions de CO2 d'une voiture ?](/What_is_the_car_CO2_emission)
+[Project 2 : Quelles sont les émissions de CO2 d'une voiture ?](/What_is_the_car_CO2_emission)
 
 ---
 ### Data Vizualisation
