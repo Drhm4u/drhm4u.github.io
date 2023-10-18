@@ -4,7 +4,7 @@
 ### Data Science project
 [Project 1 : Who will open a term-deposit ?](/Who_will_open_a_term_deposit)
 <br>
-[Project 2 : What is the car CO2 emission ?](/What is the car CO2 emission)
+[Project 2 : What is the car CO2 emission ?](/What_is_the_car_CO2_emission)
 
 ---
 ### Data Vizualisation
