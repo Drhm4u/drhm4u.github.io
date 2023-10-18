@@ -30,4 +30,4 @@ Here are the insights of what datas highlighted in our analysis :
 ### Selected final models
 The best models which offers performing results and reduce the overfitting are the VotingClassifier and the SVM model.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [my Kaggle Notebook](https://www.kaggle.com/code/stphanedrihem/will-they-open-a-term-deposit/).
