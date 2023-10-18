@@ -7,7 +7,7 @@
 ---
 ### Data Vizualisation
 [Project 1 : Interactive Bokeh map](/sample_page)
-<img src="images/bokeh_map.PNG?raw=false" width="400" height="200"/>
+<img src="images/bokeh_map.PNG?raw=false" width="400" height="300"/>
 
 ---
 
