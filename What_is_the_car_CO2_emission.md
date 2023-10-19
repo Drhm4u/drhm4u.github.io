@@ -1,6 +1,7 @@
 ## Quelles sont les émissions de CO2 d'une voiture ?  
 
-**Description du projet :** Nous allons nous exercer à prédire les émissions de CO2 d’un véhicule. L’idée sous-jacente est d’identifier les véhicules polluants. 
+**Description du projet :** Au travers de ce projet, j'ai entraîné des modèles permettant de prédire la quantité de CO2 pour une voiture. 
+L’idée sous-jacente est d’identifier les véhicules polluants afin que les décideurs puissent mettre en place des actions (bonus/malus, etc...). 
 
 ### Conclusion de la modélisation
 <img src="images/tableau_modelisation_CO2.PNG" width="400" height="350"/>
@@ -11,7 +12,7 @@ S’il y a plusieurs modèles parmi lesquels choisir (car les performances s’�
 -	Interprétabilité des résultats retournés
 Voici un rapide commentaire pour chaque modèle :
 <img src="images/Choix_modele_CO2.PNG" width="500" height="125"/>
-<FONT size="1pt"> *Les modèles ne proposent pas de récupérer l’ordre d’importance des features quant à leur impact sur la sortie du label (contrairement à l’arbre de décision, la régression et le randomforest). Il faudrait utiliser des méthodes plus approfondies pour obtenir les informations d’interprétabilité (via SKATER, LIME ou SHAP).</FONT><br><br>
+<FONT size="2pt"> *Les modèles ne proposent pas de récupérer l’ordre d’importance des features quant à leur impact sur la sortie du label (contrairement à l’arbre de décision, la régression et le randomforest). Il faudrait utiliser des méthodes plus approfondies pour obtenir les informations d’interprétabilité (via SKATER, LIME ou SHAP).</FONT><br><br>
 Selon une analyse succincte, on peut retenir la régression linéaire comme étant la plus adaptée à notre problème. 
 
 ### Détail du projet
