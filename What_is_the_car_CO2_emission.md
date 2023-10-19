@@ -15,4 +15,4 @@ Voici un rapide commentaire pour chaque modèle :
 Selon une analyse succincte, on peut retenir la régression linéaire comme étant la plus adaptée à notre problème. 
 
 ### Détail du projet
-Pour une présentation exhaustive, vous pouvez retrouver [mon rapport d'étude](https://guides.github.com/features/mastering-markdown/) et [mon notebook]([https://guides.github.com/features/mastering-markdown](https://colab.research.google.com/drive/1pqc4teWw9T0bCkp6vWxCOZl9Uv0PmzOX?usp=sharing)https://colab.research.google.com/drive/1pqc4teWw9T0bCkp6vWxCOZl9Uv0PmzOX?usp=sharing/). 
+Pour une présentation exhaustive, vous pouvez retrouver [mon rapport d'étude](https://1drv.ms/b/s!AvHm4Ey0oAB0ikj81fSlREuDg_CO?e=rxVKnr/) et [mon notebook](https://colab.research.google.com/drive/1pqc4teWw9T0bCkp6vWxCOZl9Uv0PmzOX?usp=sharing/). 
