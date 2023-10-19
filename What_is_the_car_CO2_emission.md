@@ -1,6 +1,6 @@
 ## Quelles sont les émissions de CO2 d'une voiture ?  
 
-**Project description:** Nous allons nous exercer à prédire les émissions de CO2 d’un véhicule. L’idée sous-jacente est d’identifier les véhicules polluants. 
+**Description du projet :** Nous allons nous exercer à prédire les émissions de CO2 d’un véhicule. L’idée sous-jacente est d’identifier les véhicules polluants. 
 
 ### EDA et Pre-processing**
 Toutes sont présentées de façon exhaustive dans le notebook et le rapport final (Word) de ce projet. 
