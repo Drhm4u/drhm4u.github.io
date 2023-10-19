@@ -10,7 +10,7 @@ S’il y a plusieurs modèles parmi lesquels choisir (car les performances s’�
 -	Temps de calcul
 -	Interprétabilité des résultats retournés
 Voici un rapide commentaire pour chaque modèle :
-<img src="images/Choix_modele_CO2.PNG" width="400" height="350"/>
+<img src="images/Choix_modele_CO2.PNG" width="500" height="125"/>
 *Les modèles ne proposent pas de récupérer l’ordre d’importance des features quant à leur impact sur la sortie du label (contrairement à l’arbre de décision, la régression et le randomforest). Il faudrait utiliser des méthodes plus approfondies pour obtenir les informations d’interprétabilité (via SKATER, LIME ou SHAP).
 Selon une analyse succincte, on peut retenir la régression linéaire comme étant la plus adaptée à notre problème. 
 
