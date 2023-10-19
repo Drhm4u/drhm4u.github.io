@@ -1,9 +1,12 @@
-## This can be your internal website page / project page
+## Quelles sont les émissions de CO2 d'une voiture ?  
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** Nous allons nous exercer à prédire les émissions de CO2 d’un véhicule. L’idée sous-jacente est d’identifier les véhicules polluants. 
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### EDA et Pre-processing**
+Toutes sont présentées de façon exhaustive dans le notebook et le rapport final (Word) de ce projet. 
 
+### Conclusion de la modélisation
+<img src="images/bokeh_map.PNG?raw=false" width="300" height="300"/>
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
 ```javascript
