@@ -23,8 +23,8 @@ Here are the **insights of** what datas highlighted in **our analysis** :
   + In that observation, we can assume that the client has already developed a trustworthy relationship with the bank before the campaign and the client is more aware of the advantages that bank may offer (previously sensitized).
   + *Nota* : You surely can't contact people before campaign when it's the first time you reach out to them. But, it would maybe be a good thing to sensitize them in another way at first sight (in a softer way than wanting them to open a term-deposit). There are prior things to do first with a new potential target. In this process, you may get a better rate of opening a term-deposit but in a longer range of time.
 
-**Modeling**
-The best models which offers performing results and reduce the overfitting are the VotingClassifier and the SVM model.
-As said in the introduction, making a model to classify the target people can help bank advisor to focus his attention to the more likely people. This would shorten the effort and maximize the positive outcome. 
+**Modeling**<br>
+The best models which offers performing results and reduce the overfitting are the VotingClassifier and the SVM model.<br>
+As said in the introduction, making a model to classify the targeted people can help bank advisor to focus his attention to the more likely one. This would eventually shorten the effort and maximize the positive outcome. 
 
 For more details, you can check out [my Kaggle Notebook](https://www.kaggle.com/code/stphanedrihem/will-they-open-a-term-deposit/).
