@@ -27,4 +27,19 @@ Here are the **insights of** what datas highlighted in **our analysis** :
 The best models which offers performing results and reduce the overfitting are the VotingClassifier and the SVM model.<br>
 As said in the introduction, making a model to classify the targeted people can help bank advisor to focus his attention to the more likely one. This would eventually shorten the effort and maximize the positive outcome. 
 
+**Cumulative gain**
+The dataset is really balanced in the possibles outcome. We get half chance of having a positive or negative answer from the targeted client. We can target around 80% of the positive outcome in 50% of the sample. Same note for the negative outcome :<br> 
+<img src="images/cumulative_gain_bank.PNG?raw=true" width="400" height="300"/>
+
+The better methodology is to handle the client who has the best probability of opening a term deposit and so on.
+
+ **Conclusion**
+ Several conclusions appear in our business case. <br>
+ - Either we proceed to the campaign and have immediate effects on opening term-deposit
+ - Or we try to reach potential customer in a softer way (making the bank known, attract client with sponsorship bonus, ...) and get to talk about term deposit months or years after.
+
+We might have better results in the second methodology : 67% of positive outcome when client had already contact with bank before campaign against 59% in the other case. But the second strategy is more time consuming than the first one. 
+I guess that **time** will be the criteria that will decide the one or second strategy in regard of the benefit it could give : 
+67% - 59% = 8%. Does those 8% worth the try to wait many times more or not ?  
+
 For more details, you can check out [my Kaggle Notebook](https://www.kaggle.com/code/stphanedrihem/will-they-open-a-term-deposit/).
